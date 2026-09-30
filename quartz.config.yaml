@@ -86,8 +86,8 @@ plugins:
     options:
       renderEngine: katex
     order: 80
-  - source: "@quartz-community/citations"
-    enabled: false
+  - source: "@quartz-community/hard-line-breaks"
+    enabled: true
     order: 85
   - source: "@quartz-community/hard-line-breaks"
     enabled: false
