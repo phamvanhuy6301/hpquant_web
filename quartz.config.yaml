@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: phamvanhuy6301.github.io/hpquant_web
+  baseUrl: https://phamvanhuy6301.github.io/
   ignorePatterns:
     - private
     - templates
