@@ -7,7 +7,6 @@ Một số ý quan trọng trong bài viết gốc:
 - tư duy xác định (Deterministic) và tư duy ngẫu nhiên (Stochastic). 
 - cơ chế hoạt động và 3 trụ cột của bước đi ngẫu nhiên (random walk)
 Đây có thể xem là phần ghi chú của tôi trong quá trình nghiên cứu và hệ thống hóa kiến thức. 
-quant -> khát vọng mô hình hóa thế giới -> câu hỏi nghi vấn cần đặt ra là liệu có tồn tại mô hình để người làm quant có thể mô hình hóa được hay không? 
 
 ## Từ xác định đến ngẫu nhiên 
 - Trong nhiều thế kỷ, khoa học bị thống trị bởi tư duy xác định (deterministic). Một đại diện của tư tưởng này là giả thuyết về "Ác quỷ Laplace" - nếu biết vị trị và vận tốc của mọi hạt trong vũ trụ, ta có thể suy luận ra chính xác quá khứ và tương lai. Tư duy này hoạt động tốt khi NASA phóng tàu vũ trụ lên sao hỏa bằng các định luật Newton. 
