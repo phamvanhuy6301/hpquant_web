@@ -10,7 +10,7 @@ Một số ý quan trọng trong bài viết gốc:
 
 ## Từ xác định đến ngẫu nhiên 
 - Trong nhiều thế kỷ, khoa học bị thống trị bởi tư duy xác định (deterministic). Một đại diện của tư tưởng này là giả thuyết về "Ác quỷ Laplace" - nếu biết vị trị và vận tốc của mọi hạt trong vũ trụ, ta có thể suy luận ra chính xác quá khứ và tương lai. Tư duy này hoạt động tốt khi NASA phóng tàu vũ trụ lên sao hỏa bằng các định luật Newton. 
-- Trong tài chính, người ta mơ về 1 công thức toán học đóng $y -= f(x)$. Thực tế thì giá cổ phiếu nó không đi theo một đường thẳng hay một đường cong, ta k thể dùng gia tốc của cổ phiếu hôm nay để dự đoán giá cho ngày mai. 
+- Trong tài chính, người ta mơ về 1 công thức toán học đóng $y = f(x)$. Thực tế thì giá cổ phiếu nó không đi theo một đường thẳng hay một đường cong, ta k thể dùng gia tốc của cổ phiếu hôm nay để dự đoán giá cho ngày mai. 
 -  Tài chính là một hệ thống phức tạp tự quy chiếu. Nếu các nhà đầu tư đều biết giá ngày mai sẽ tăng, hôm nay họ sẽ mua và giá sẽ tăng vào ngày hôm nay. 
 - Ngẫu nhiên khác với vô định hay hỗn loạn $\to$ là sự kết hợp giữa **xu hướng giá dài hạn** và **biến động trong ngắn hạn**. 
 - Tuy nhiên, khi đem vào thị trường tài chính, thì giá cổ phiếu nó không vận hành như thế, chúng nhảy múa, rung lắc và đảo chiều. Bạn không thể dùng vận tốc tăng trưởng hôm qua để khẳng định chắc chắn giá ngày hôm nay. 
