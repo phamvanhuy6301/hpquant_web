@@ -1,5 +1,5 @@
 ---
-title:
+title: Home
 ---
 # welcome to hpquant
 Xin chào, 
