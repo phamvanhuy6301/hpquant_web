@@ -16,7 +16,7 @@ Một số ý quan trọng trong bài viết gốc:
 - Tuy nhiên, khi đem vào thị trường tài chính, thì giá cổ phiếu nó không vận hành như thế, chúng nhảy múa, rung lắc và đảo chiều. Bạn không thể dùng vận tốc tăng trưởng hôm qua để khẳng định chắc chắn giá ngày hôm nay. 
 - Đây là lúc ta cần thế giới Ngẫu nhiên (Stochastic). Ngẫu nhiên không có nghĩa là vô định hay hỗn loạn. 
 - trong thế giới ngẫu nhiên, rủi ro không phải sai số, nó là bản chất. 
-- các quant hiện đaị tin rằng: “việc dự báo tương lai từ dữ liệu quá khứ là vô ích” $\to$ họ tập trung vào việc mô hình hóa ngẫu nhiên và rủi ro $\to$  *với tôi thì đây là chỗ trống cho một người mới như tôi, tôi sẽ chọn miếng bánh mà ít người làm, có thể xem đây là thị trường ngách mà tôi chọn.* 
+- các quant hiện đaị tin rằng: “việc dự báo tương lai từ dữ liệu quá khứ là vô ích” $\to$ họ tập trung vào việc mô hình hóa ngẫu nhiên và rủi ro $\to$  *với tôi thì đây là chỗ trống cho một người mới như tôi, tôi sẽ chọn miếng bánh mà ít người làm, có thể xem đây là thị trường ngách mà tôi chọn, tôi chọn dự đoán xu hướng giá* 
 - Với một số quỹ lớn, sự thành công không đến từ việc đoán đúng giá, mà từ việc hiểu rõ biên độ của sự rung lắc để thực hiện các chiến lược phòng vệ nhằm triệt tiêu sự ngẫu nhiên. $\to$ Với tôi, nếu tư duy ngược lại, bản chất của thị trường trong thế giới ngẫu nhiên rủi ro k phải sai số, vậy tại sao lại phải cố gắng triệt tiêu sự ngẫu nhiên.  Và nếu triệt tiêu thì câu hỏi là triệt tiêu bằng cách nào và bằng cái gì. 
 - tài sản thực tế có đuôi béo dẫn đến các biến đông cực đoan diễn ra thường xuyên hơn việc áp phân phối chuẩn vào. 
 	![[Pasted image 20261005164628.png]]
