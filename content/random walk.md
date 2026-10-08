@@ -51,3 +51,7 @@ Các nhà khoa học dùng mô hình này để mô phỏng thị truờng dựa
 	- Alpha không có tín hiệu (may mắn thuần túy): Kỳ vọng lợi nhuận hằng ngày bằng 0. PnL lúc này sẽ là một random walk thuần túy. Dù PnL có thể tăng trong ngắn hạn nhờ may mắn, kỳ vọng dài hạn của nó vẫn trở về vạch xuất phát, tuy nhiên nếu thêm phần phí giao dịch vào thì dài hạn nó sẽ cắm đầu. 
 	- Alpha có tín hiệu thực sự (true edge): Kỳ vọng lợi nhuận lúc này mang giá trị dương ($\mu > 0$). PnL lúc này tương đương với một  Random walk có xu hướng. 
 Tóm lại, trong ngắn hạn, nhiễu ngẫu nhiên sẽ lấn áp tín hiệu. Sự khác biệt lớn nhất giữa một Alpha có tín hiệu và một random walk may mắn chỉ bộc lộ qua thời gian đủ dài (N lớn). Nhưng N đủ lớn là bao nhiêu thì tôi không biết, quan sát N quá lớn có khi sẽ làm bạn bỏ lỡ lúc "ăn mạnh" của alpha, nhưng không quan sát có thể bạn sẽ nhầm lẫn sữa tín hiệu thật và sự may mắn. 
+--- 
+Bổ sung (8/10/2026): Các chiến lược giao dịch có vẻ như cũng có đặc điểm giống như một random walk đó là càng chạy lâu thì std của nó càng phình to, tức là càng về dài hạn, rủi ro của một chiến lước sẽ tăng lên -> phải chăng, ta nên xây dựng một bộ quy tắc để tắt hẳn alpha khi mà rủi ro của nó tăng lên. 
+
+
